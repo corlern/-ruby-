@@ -8,11 +8,11 @@
   </p>
 </div>
 
-A categorized community-driven collection of awesome Ruby libraries, tools, frameworks and software. The essential Ruby to build modern Apps and Web Apps.
+一个分类的社区驱动的真棒Ruby库、工具、框架和软件的集合。构建现代应用程序和Web应用程序的基本Ruby。
 
-Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/markets/awesome-ruby/blob/master/CONTRIBUTING.md) first.
+我们随时欢迎分享、建议和贡献 请看一下[贡献指南和质量标准]。(https://github.com/markets/awesome-ruby/blob/master/CONTRIBUTING.md)先！
 
-Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/contributors), you're awesome and this wouldn't be possible without you!
+感谢所有人 [contributors](https://github.com/markets/awesome-ruby/graphs/contributors), 你太棒了，没有你这一切都不可能!
 
 * [Admin Interface](#admin-interface)
 * [Analytics](#analytics)
